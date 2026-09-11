@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyazmohmmad/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/riyazmohmmad/Leetcode/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyazmohmmad/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/riyazmohmmad/Leetcode/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -35,4 +37,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0007-reverse-integer) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/riyazmohmmad/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
