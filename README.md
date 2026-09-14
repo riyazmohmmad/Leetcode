@@ -28,6 +28,7 @@
 | [0006-zigzag-conversion](https://github.com/riyazmohmmad/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/riyazmohmmad/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/riyazmohmmad/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/riyazmohmmad/Leetcode/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/riyazmohmmad/Leetcode/tree/master/0012-integer-to-roman) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riyazmohmmad/Leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/riyazmohmmad/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
