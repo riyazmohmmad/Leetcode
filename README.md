@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyazmohmmad/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/riyazmohmmad/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/riyazmohmmad/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/riyazmohmmad/Leetcode/tree/master/0015-3sum) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@
 | [0010-regular-expression-matching](https://github.com/riyazmohmmad/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/riyazmohmmad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/riyazmohmmad/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/riyazmohmmad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/riyazmohmmad/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
