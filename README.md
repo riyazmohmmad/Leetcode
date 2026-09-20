@@ -11,10 +11,12 @@
 | [0016-3sum-closest](https://github.com/riyazmohmmad/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyazmohmmad/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riyazmohmmad/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/riyazmohmmad/Leetcode/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyazmohmmad/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/riyazmohmmad/Leetcode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
