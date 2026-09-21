@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyazmohmmad/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riyazmohmmad/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/riyazmohmmad/Leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/riyazmohmmad/Leetcode/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +84,9 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyazmohmmad/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/riyazmohmmad/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/riyazmohmmad/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
