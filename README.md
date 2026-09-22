@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/riyazmohmmad/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/riyazmohmmad/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/riyazmohmmad/Leetcode/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/riyazmohmmad/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
