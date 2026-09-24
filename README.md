@@ -43,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/riyazmohmmad/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyazmohmmad/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/riyazmohmmad/Leetcode/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0007-reverse-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/riyazmohmmad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/riyazmohmmad/Leetcode/tree/master/0043-multiply-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/riyazmohmmad/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/riyazmohmmad/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
