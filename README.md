@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/riyazmohmmad/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyazmohmmad/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riyazmohmmad/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/riyazmohmmad/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/riyazmohmmad/Leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/riyazmohmmad/Leetcode/tree/master/0051-n-queens) |
 ## Binary Search
@@ -32,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/riyazmohmmad/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyazmohmmad/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riyazmohmmad/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/riyazmohmmad/Leetcode/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
