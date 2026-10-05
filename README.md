@@ -52,6 +52,7 @@
 | [0022-generate-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riyazmohmmad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyazmohmmad/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/riyazmohmmad/Leetcode/tree/master/0043-multiply-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/riyazmohmmad/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@
 | [0005-longest-palindromic-substring](https://github.com/riyazmohmmad/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/riyazmohmmad/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -137,11 +139,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
