@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyazmohmmad/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riyazmohmmad/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riyazmohmmad/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/riyazmohmmad/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/riyazmohmmad/Leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/riyazmohmmad/Leetcode/tree/master/0051-n-queens) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/riyazmohmmad/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyazmohmmad/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/riyazmohmmad/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/riyazmohmmad/Leetcode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
