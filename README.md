@@ -58,6 +58,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riyazmohmmad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyazmohmmad/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/riyazmohmmad/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/riyazmohmmad/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/riyazmohmmad/Leetcode/tree/master/0043-multiply-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/riyazmohmmad/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
