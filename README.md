@@ -23,6 +23,7 @@
 | [0045-jump-game-ii](https://github.com/riyazmohmmad/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/riyazmohmmad/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/riyazmohmmad/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/riyazmohmmad/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/riyazmohmmad/Leetcode/tree/master/0051-n-queens) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/riyazmohmmad/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
@@ -91,6 +92,7 @@
 | [0012-integer-to-roman](https://github.com/riyazmohmmad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/riyazmohmmad/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/riyazmohmmad/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/riyazmohmmad/Leetcode/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/riyazmohmmad/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/riyazmohmmad/Leetcode/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
